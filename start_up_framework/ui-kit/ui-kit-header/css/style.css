@@ -993,15 +993,15 @@ section * {
   transform-style: preserve-3d;
 }
 .header-1-sub .pt-page-1 .background {
-  background-image: url("../../../common-files/img/NY_002.jpg");
+  background-image: url("../../../common-files/img/Harvard.jpg");
   opacity: 75;
   filter: alpha(opacity=7500);
   opacity: 0.75;
   filter: alpha(opacity=75);
-  background-position: 50% 30%;
+  background-position: 60% 40%;
 }
 .header-1-sub .pt-page-2 .background {
-  background-image: url("../../../common-files/img/header/img-2.jpg");
+  background-image: url("../../../common-files/img/header/chicago2.jpg");
   opacity: 75;
   filter: alpha(opacity=7500);
   opacity: 0.75;
@@ -1009,12 +1009,12 @@ section * {
   background-position: 50% 30%;
 }
 .header-1-sub .pt-page-3 .background {
-  background-image: url("../../../common-files/img/header/img-3.jpg");
+  background-image: url("../../../common-files/img/header/campus3.jpg");
   opacity: 75;
   filter: alpha(opacity=7500);
   opacity: 0.75;
   filter: alpha(opacity=75);
-  background-position: 50% 30%;
+  background-position: 70% 50%;
 }
 .header-1-sub .pt-page-current,
 .header-1-sub .no-js .pt-page {
